@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CONVERTOR</string>
+    <string name="button_name">CONVERT TO INCHES</string>
+    <string name="error_message">ENTER SOME NUMBER</string>
+    <string name="buton_name">CONVERT TO FEETS </string>
+    <string name="errr_message">ENTER SOME NUMBER</string>
+    <string name="bttn_name">CONVERT TO YARDS</string>
+    <string name="errorr_message">ENTER SOME NUMBER</string>
+    </resources>
